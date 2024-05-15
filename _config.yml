@@ -3,3 +3,4 @@ plugins:
 - jekyll-remote-theme
 title: Louis Pate
 show_downloads: true
+logo: /assets/images/HeadShot.JPG
