@@ -4,7 +4,7 @@
 #### Technologies: Angular, Git, Express.js, PostgreSQL
 
 ## Education
-- B.S. Mechanical Engineering | SUNY New Paltz (_August 2016 - May 2020_)								       		
+- B.S. Mechanical Engineering SUNY New Paltz (_August 2016 - May 2020_)								       		
 
 - GPA: 3.83 | Summa Cum Laude (Top of Class)
 
@@ -17,14 +17,16 @@ With a strong foundation in adapting and learning quickly, honed through my dive
  
 
 ## Work Experience
-**Applications Engineer @ Goodway Technologies (_November 2022 - November 2023_)**
+**Applications Engineer @ Goodway Technologies 
+(_November 2022 - November 2023_)**
 - Worked closely with customers to understand and address their needs in custom projects
 - Brainstormed numerous solutions and selected the most applicable and practical design
 - Designed prototypes in SolidWorks using custom made and readily available parts
 -  Performed cost analysis on prototypes, ordered and machined parts, and assembled prototype designs
 -  Finalized designs and visited customer sites to install and train users on the systems
 
-**MRI Specialist Engineer @ General Electric Healthcare (_November 2020 - November 2022_)**
+**MRI Specialist Engineer @ General Electric Healthcare 
+(_November 2020 - November 2022_)**
 - Developed deep understanding of mechanical, electrical, and cooling components of MRI systems
 - Assisted with installations of MRI systems including magnet room, systems cabinets, and control room
 - Troubleshoot MRI system issues and devised paths towards resolutions
