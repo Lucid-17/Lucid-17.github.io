@@ -1,9 +1,10 @@
-# Data Scientist
+# Software Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Languages: TypeScript, HTML, CSS, SQL
+#### Technologies: Angular, PostgreSQL
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
+- B.S. Mechanical Engineering | SUNY New Paltz (_August 2016 - May 2020_)								       		
 - M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
 - B.S., Physics | The University of Texas at Dallas (_May 2017_)
 
