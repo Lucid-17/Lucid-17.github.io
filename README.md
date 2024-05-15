@@ -3,6 +3,8 @@
 #### Languages: TypeScript, HTML, CSS, SQL
 #### Technologies: Angular, Git, Express.js, PostgreSQL
 
+[LinkedIn](https://www.linkedin.com/in/louis-pate-913154127/)
+
 ## Education
 - B.S. Mechanical Engineering SUNY New Paltz (_August 2016 - May 2020_)								       		
 
