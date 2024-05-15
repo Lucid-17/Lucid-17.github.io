@@ -35,6 +35,8 @@ With a strong foundation in adapting and learning quickly, honed through my dive
 - Perform metric driven repairs and maintenance to mitigate MR system down time
 - Built personal and professional relationships with customers and worked closely with them to repair systems
 
+
+## Projects
 ### Work-Up! Fitness Tracker
 [Github Code](https://github.com/Lucid-17/workup2)
 
@@ -42,7 +44,6 @@ Work-Up! is a workout tracker for users to keep a log of their progression in th
 The application also employs a simple yet effective front-end which implements Dependency Inversion Principles, Prettier, and ESLint for consistent, clean, and reusable code. 
 
 
-## Projects
 ### Pokédex App
 [Github Code](https://github.com/Lucid-17/pokedex_app)
 
