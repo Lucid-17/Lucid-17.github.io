@@ -5,7 +5,7 @@
 
 ## Education
 - **B.S. Mechanical Engineering** | State University of New York at New Paltz (_August 2016 - May 2020_)
-  GPA: 3.83 / 4.0
++ GPA: 3.83 / 4.0
 - Outstanding Graduate | Summa Cum Laude (_Top of Class_)
 
 
