@@ -1,34 +1,42 @@
 # Software Engineer
 
 #### Languages: TypeScript, HTML, CSS, SQL
-#### Technologies: Angular, PostgreSQL
+#### Technologies: Angular, Git, Express.js, PostgreSQL
 
 ## Education
 - B.S. Mechanical Engineering | SUNY New Paltz (_August 2016 - May 2020_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+
+GPA: 3.83 | Summa Cum Laude (Top of Class)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Applications Engineer @ Goodway Technologies (_November 2022 - November 2023_)**
+- Worked closely with customers to understand and address their needs in custom projects
+- Brainstormed numerous solutions and selected the most applicable and practical design
+- Designed prototypes in SolidWorks using custom made and readily available parts
+-  Performed cost analysis on prototypes, ordered and machined parts, and assembled prototype designs
+-  Finalized designs and visited customer sites to install and train users on the systems
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**MRI Specialist Engineer @ General Electric Healthcare (_November 2020 - November 2022_)**
+- Developed deep understanding of mechanical, electrical, and cooling components of MRI systems
+- Assisted with installations of MRI systems including magnet room, systems cabinets, and control room
+- Troubleshoot MRI system issues and devised paths towards resolutions
+- Perform metric driven repairs and maintenance to mitigate MR system down time
+- Built personal and professional relationships with customers and worked closely with them to repair systems
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
+### Pokedex App
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Developed an interactive Pokedex app from the popular media franchise "Pokemon". The application has a well designed front-end which utilizes a public RESTful API to fetch data on particular Pokemon. 
+Features a search bar, interactive number-pad, increment buttons, and a randomize button.  
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
+### Work-Up! Fitness Tracker
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Work-Up! is a workout tracker for users to keep a log of their progression in the gym. The application utilizes an Express.js server which handles basic C.R.U.D. operations to a custom PostgreSQL database.
+The application also employs a simple yet effective front-end which implements Dependency Inversion Principles, Prettier, and ESLint for consistent, clean, and reusable code. 
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
