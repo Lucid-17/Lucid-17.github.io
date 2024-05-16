@@ -45,6 +45,7 @@ The application also employs a simple yet effective front-end which implements D
 
 
 ### Pokédex App
+[Try it for yourself!](https://lucid-17.github.io/pokedex_app/pokedex_app/)
 [Github Code](https://github.com/Lucid-17/pokedex_app)
 
 Developed an interactive Pokédex app from the popular media franchise "Pokémon". The application has a well designed front-end which utilizes a public RESTful API to fetch data on particular Pokémon. 
