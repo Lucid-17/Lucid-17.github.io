@@ -38,6 +38,8 @@ With a strong foundation in adapting and learning quickly, honed through my dive
 
 ## Projects
 ### Work-Up! Fitness Tracker
+[Try it for yourself!](https://lucid-17.github.io/workup2)
+
 [Github Code](https://github.com/Lucid-17/workup2)
 
 Work-Up! is a workout tracker for users to keep a log of their progression in the gym. The application utilizes an Express.js server which handles basic C.R.U.D. operations to a custom PostgreSQL database.
